@@ -62,7 +62,7 @@ My interests lie at the intersection of **Software Engineering**, **AI**, and **
 <details>
   <summary><h3>📫 Connect with Me (Click to Expand)</h3></summary>
   <div align="center">
-    <a href="https://linkedin.com/in/muskan-maurya-861473232/">
+    <a href="https://www.linkedin.com/in/muskan-maurya-82720a412/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://instagram.com/muskan_m_27/">
